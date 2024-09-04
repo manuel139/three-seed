@@ -61,5 +61,6 @@ Both the models are loaded by the GLTFLoader and were sourced from the Google Po
 
 ## Building the project for the web
 Once you are happy with your project you'll be sure to want to show it off. Running `npm run build` in terminal will bundle your project into the folder `./build/`. 
+You can upload this directory to a web server. For more complex results read [this guide](https://webpack.js.org/guides/production/).
 
 
